@@ -1,6 +1,4 @@
-Do not change the directory structure of the archive when submitting. Do not change the name of any of the existing files and folders. Simply copy over the existing files, create a TAR archive (with the identical directory structure as the template archive). A common mistake is to create a ZIP archive instead of a TAR archive.
-
-Submit the TAR archive in Autolab.
-
-Failing to do so may result in your submission being empty to the graders.
-
+This code was homework for Fall 2015 Introduction to Machine Learning 10-601
+* Homework 1
+* Implements Naive Bayes Classifier, Linear Perceptron, and Kernel Perceptron for classifying Iris flowers
+* Training and Test Data included
